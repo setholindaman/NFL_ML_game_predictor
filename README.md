@@ -2,4 +2,4 @@
 
 Using machine learning models to predict the outcome of NFL games
 
-![Machine Learning Models]<img src='images/comparison.png'>
+![ML model comparison](images/comparison.png)
